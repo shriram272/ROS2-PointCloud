@@ -14,8 +14,17 @@ Virtual slam was further developed to be used on a larger robot like rover.
 
 
 
-
 https://github.com/user-attachments/assets/9732fd17-06a3-4b3c-9929-2d9bc5b608ac
+
+The following video shows how the robot was moved in the real worls while generating the point cloud and performing SLAM.
+
+
+
+
+
+https://github.com/user-attachments/assets/c3c71396-4349-447f-ac6d-9fb35bb04eb7
+
+
 
 
 
